@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Hussain",
+    "course": "MCA",
+    "total": 60000,
+    "paid": 60000
+  },
+  {
+    "id": 2,
+    "name": "Kaif",
+    "course": "MBA",
+    "total": 70000,
+    "paid": 70000
+  },
+  {
+    "id": 3,
+    "name": "Ali",
+    "course": "BBA",
+    "total": 50000,
+    "paid": 30000
+  }
+]
